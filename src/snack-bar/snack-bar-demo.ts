@@ -4,7 +4,7 @@ import {MdSnackBar, MdSnackBarConfig} from '@angular/material';
 @Component({
   moduleId: module.id,
   selector: 'snack-bar-demo',
-  styleUrls: ['snack-bar-demo.css'],
+  styleUrls: ['snack-bar-demo.scss'],
   templateUrl: 'snack-bar-demo.html',
   encapsulation: ViewEncapsulation.None,
 })

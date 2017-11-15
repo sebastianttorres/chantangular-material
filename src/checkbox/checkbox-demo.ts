@@ -65,7 +65,7 @@ export class MdCheckboxDemoNestedChecklist {
   moduleId: module.id,
   selector: 'md-checkbox-demo',
   templateUrl: 'checkbox-demo.html',
-  styleUrls: ['checkbox-demo.css'],
+  styleUrls: ['checkbox-demo.scss'],
 })
 export class CheckboxDemo {
   isIndeterminate: boolean = false;

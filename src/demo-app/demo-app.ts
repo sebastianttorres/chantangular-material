@@ -24,7 +24,7 @@ export class DemoAppOnPush {}
   moduleId: module.id,
   selector: 'demo-app',
   templateUrl: 'demo-app.html',
-  styleUrls: ['demo-app.css'],
+  styleUrls: ['demo-app.scss'],
   host: {
     '[class.unicorn-dark-theme]': 'dark',
   },

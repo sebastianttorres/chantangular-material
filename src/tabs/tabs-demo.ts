@@ -5,7 +5,7 @@ import {Observable} from 'rxjs/Observable';
   moduleId: module.id,
   selector: 'tabs-demo',
   templateUrl: 'tabs-demo.html',
-  styleUrls: ['tabs-demo.css'],
+  styleUrls: ['tabs-demo.scss'],
   encapsulation: ViewEncapsulation.None,
 })
 export class TabsDemo {

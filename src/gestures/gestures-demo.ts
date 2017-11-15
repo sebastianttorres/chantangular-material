@@ -4,7 +4,7 @@ import {Component} from '@angular/core';
   moduleId: module.id,
   selector: 'gestures-demo',
   templateUrl: 'gestures-demo.html',
-  styleUrls: ['gestures-demo.css'],
+  styleUrls: ['gestures-demo.scss'],
 })
 export class GesturesDemo {
   dragCount: number = 0;

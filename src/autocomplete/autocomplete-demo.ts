@@ -7,7 +7,7 @@ import 'rxjs/add/operator/map';
   moduleId: module.id,
   selector: 'autocomplete-demo',
   templateUrl: 'autocomplete-demo.html',
-  styleUrls: ['autocomplete-demo.css'],
+  styleUrls: ['autocomplete-demo.scss'],
   encapsulation: ViewEncapsulation.None
 })
 export class AutocompleteDemo {

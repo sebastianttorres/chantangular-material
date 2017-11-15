@@ -13,7 +13,7 @@ export interface DemoColor {
   moduleId: module.id,
   selector: 'chips-demo',
   templateUrl: 'chips-demo.html',
-  styleUrls: ['chips-demo.css']
+  styleUrls: ['chips-demo.scss']
 })
 export class ChipsDemo {
   visible: boolean = true;

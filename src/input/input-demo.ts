@@ -10,7 +10,7 @@ const EMAIL_REGEX = /^[a-zA-Z0-9.!#$%&’*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA
   moduleId: module.id,
   selector: 'input-demo',
   templateUrl: 'input-demo.html',
-  styleUrls: ['input-demo.css'],
+  styleUrls: ['input-demo.scss'],
 })
 export class InputDemo {
   floatingLabel: string = 'auto';

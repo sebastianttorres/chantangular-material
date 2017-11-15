@@ -6,7 +6,7 @@ import {MdIconRegistry} from '@angular/material';
   moduleId: module.id,
   selector: 'md-icon-demo',
   templateUrl: 'icon-demo.html',
-  styleUrls: ['icon-demo.css'],
+  styleUrls: ['icon-demo.scss'],
   encapsulation: ViewEncapsulation.None,
 })
 export class IconDemo {

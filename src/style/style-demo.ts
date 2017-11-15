@@ -6,7 +6,7 @@ import {FocusOriginMonitor} from '@angular/material';
   moduleId: module.id,
   selector: 'style-demo',
   templateUrl: 'style-demo.html',
-  styleUrls: ['style-demo.css'],
+  styleUrls: ['style-demo.scss'],
 })
 export class StyleDemo {
   constructor(public fom: FocusOriginMonitor) {}

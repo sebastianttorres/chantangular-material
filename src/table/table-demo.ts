@@ -12,7 +12,7 @@ export type TrackByStrategy = 'id' | 'reference' | 'index';
   moduleId: module.id,
   selector: 'table-demo',
   templateUrl: 'table-demo.html',
-  styleUrls: ['table-demo.css'],
+  styleUrls: ['table-demo.scss'],
 })
 export class TableDemo {
   dataSource: PersonDataSource | null;
