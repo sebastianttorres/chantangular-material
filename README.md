@@ -3,8 +3,8 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.7.
 
 ## Installation
->> npm install
->> npm install @angular/cdk@2.0.0-beta.8 @angular/material@2.0.0-beta.8
+#> npm install
+#> npm install @angular/cdk@2.0.0-beta.8 @angular/material@2.0.0-beta.8
 
 ## Development server
 
